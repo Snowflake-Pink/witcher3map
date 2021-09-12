@@ -1,0 +1,523 @@
+{
+	"maps": {
+		"velen": "威倫 & 諾維格瑞",
+		"skellige": "史凱利傑群島",
+		"white_orchard": "白果園",
+		"kaer_morhen": "凯爾莫罕",
+		"toussaint": "陶森特"
+	},
+	"home": {
+		"tagline": "非官方巫師3交互式地圖<br>（開發中）",
+		"resultsFound": "搜索結果",
+		"searchPlaceholder": "輸入搜尋字串"
+	},
+	"notes": {
+		"label": "標籤：",
+		"title": "標題：",
+		"note": "備註：",
+		"enterLabel": "輸入地圖標籤...",
+		"enterTitle": "輸入備註標題...",
+		"enterText": "輸入備註文本..。",
+		"saveNote": "保存備忘",
+		"deleteNote": "刪除備忘"
+	},
+	"sidebar": {
+		"returnToMapSelection": "返回地圖選擇頁",
+		"alchemy": "煉金術士",
+		"abandoned": "廢棄地點",
+		"armourer": "護甲師傅",
+		"armourerstable": "護甲加工桌",
+		"banditcamp": "強盜營地",
+		"barber": "理髮師",
+		"blacksmith": "鑄劍匠",
+		"brothel": "妓院",
+		"loveInterest": "興趣",
+		"entrance": "入口",
+		"grindstone": "研磨石",
+		"guarded": "怪物看守的寶藏",
+		"gwent": "昆特牌玩家",
+		"harbor": "港口",
+		"hansebase": "Hanse 基地",
+		"herbalist": "藥草醫生",
+		"hidden": "秘密寶藏",
+		"innkeep": "旅館主人",
+		"kid": "騎士遇險",
+		"monsternest": "怪物巢穴",
+		"monsterden": "怪物窩",
+		"notice": "告示板",
+		"pid": "有困擾的人",
+		"pop": "魔力之所",
+		"poi": "其它特殊地點",
+		"signalfire": "火的信號",
+		"signpost": "路標",
+		"shopkeeper": "商店老闆",
+		"smugglers": "走私品",
+		"spoils": "戰掠品",
+		"vintnercontract": "商合同",
+		"vineyardinfestation": "葡萄園出沒"
+	},
+	"controls": {
+		"show": "顯示全部",
+		"hide": "隱藏全部",
+		"showCounts": "顯示統計",
+		"hideCounts": "隱藏統計",
+		"resetInvisible": "重置",
+		"resetInvisConfirm": "這將會把所有隱藏/追蹤等標記變成預設(可見)，確定嗎?",
+		"hideMonsters": "隱藏怪物",
+		"showMonsters": "顯示怪物",
+		"helpFeatures": "功能与帮助",
+		"credits": "作者",
+		"backupSave": "這將會下載巫師3地圖的設定備份 \n該檔案將會保存為 :  __fileName__ \n你確定嗎 ?",
+		"backupLoad": "還原你的設定",
+		"backupLoadSuccess": "資料還原完成",
+		"backupLoadFail": "恢復失敗，請確認你的檔案",
+		"backupHtmlFail": "抱歉，無法還原，此瀏覽器不支援HTML5 檔案API",
+		"zoomInButton": "放大",
+		"zoomOutButton": "縮小",
+		"searchButton": "搜索...",
+		"backupDataButton": "備份資料",
+		"restoreDataButton": "還原資料",
+		"centerMarkerButton": "居中突出顯示的標記",
+		"addNoteButton": "添加註釋",
+		"cancelNoteButton": "取消備註",
+		"viewFullscreenButton": "全螢幕",
+		"exitFullscreenButton": "退出全螢幕"
+	},
+	"credits": {
+		"botCreated": "由 __untamed0__創作，並獲__license__ 許可",
+		"botHelp": "來自 __mcarver__ 與其他 __contributors__ 的幫助。感謝 __designGears__ & __hhrhhr__ 地圖 & 資產提取。 Javascript 庫使用，__jsCredits__ 的完整列表。",
+		"botAssets": "巫師 3 , Logo , Icons , 地圖&amp;文字 均為__cdpr__的財產商標"
+	},
+	"misc": {
+		"contribute": "正在施工中! 歡迎提供幫助: __link__",
+		"discuss": "有反饋和建議? 請在此處探討 __link__",
+		"helpTranslate": "想幫忙或改進翻譯？",
+		"portraitWarn": "提示：推薦以橫屏模式查看地圖，點擊關閉此消息",
+		"loveInterestDesc": "在這遇見情人",
+		"nsfwConfirm": "這將使“妓院”更改為“愛戀對象”，你確定嗎？",
+		"nsfwUndo": "您確定想要返回嗎？"
+	},
+	"abandoned": {
+		"label": "廢棄地點",
+		"desc": "由於怪物或強盜攻擊被拋棄的地方。一旦危險消除，它將再次充滿生機"
+	},
+	"armourerstable": {
+		"label": "護甲加工桌",
+		"desc": "護甲加工桌可以在有限的時間內增加你裝備的護甲值"
+	},
+	"banditcamp": {
+		"label": "強盜營地",
+		"desc": "一群危險的強盜在這里扎營。 "
+	},
+	"barber": {
+		"label": "理髮師",
+		"desc": "去理髮店理髮。 "
+	},
+	"boat": {
+		"label": "小船",
+		"desc": "你可以使用小船在水中移動"
+	},
+	"entrance": {
+		"label": "入口",
+		"desc": "洞穴或废墟人口"
+	},
+	"entranceunderwatercave": {
+		"label": "水下洞穴",
+		"desc": "水下洞穴的入口"
+	},
+	"grindstone": {
+		"label": "研磨石",
+		"desc": "在這裡研磨過的劍會造成更多傷害"
+	},
+	"guarded": {
+		"label": "怪物看守的寶藏",
+		"desc": "有個強大的怪物__monster__在此處看守寶藏"
+	},
+	"harbor": {
+		"label": "港口",
+		"desc": "你可以在此找到船，船也會在此刷新"
+	},
+	"herbalist": {
+		"label": "藥草醫生",
+		"desc": "這裡你可買到煉金配方"
+	},
+	"hidden": {
+		"label": "秘密寶藏",
+		"desc": "被藏起來的寶藏",
+		"guarded": "被藏起來的寶藏 ( 被__monster__守護)"
+	},
+	"monsterden": {
+		"label": "怪物窩",
+		"desc": "怪物出沒的地點。 __monster__附近人家的心頭大患"
+	},
+	"monsternest": {
+		"label": "怪物巢穴",
+		"desc": "可以用蜂窩或舞動之心摧毀怪物巢穴(__monster__)"
+	},
+	"notice": {
+		"label": "告示板",
+		"desc": "這裡張貼了怪物委託和與當地居民相關的公告"
+	},
+	"pid": {
+		"label": "有困擾的人",
+		"desc": "這有一位或者一群人需要協助"
+	},
+	"poi": {
+		"label": {
+			"witcherGear": "巫師升級裝備"
+		},
+		"desc": {
+			"witcherGear": {
+				"silversword": {
+					"feline": {
+						"standard": "在埃泰葉爾里的一堵可被破壞的牆後",
+						"enhanced": "建築的上層-由奧森弗特門側的梯子進入",
+						"superior": "可打碎的石筍後，位於洞穴右側的石架子上",
+						"mastercrafted": ""
+					},
+					"griffin": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"ursine": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"wolven": {
+						"standard": "",
+						"enhanced": "進入洞穴中",
+						"superior": "",
+						"mastercrafted": "你會在秘密寶藏的附近找到"
+					}
+				},
+				"steelsword": {
+					"feline": {
+						"standard": "Drahim堡裡，下樓梯",
+						"enhanced": "在洞穴內左側一堵小石牆的後面",
+						"superior": "在洞穴末端，木質平台上的一個箱子裡。",
+						"mastercrafted": ""
+					},
+					"griffin": {
+						"standard": "在怪獸巢穴的附近",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"ursine": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": "在未標記的洞穴中一根石柱的後面。"
+					},
+					"wolven": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": "你會在沉船的貨艙中找到"
+					}
+				},
+				"crossbow": {
+					"feline": "",
+					"ursine": ""
+				},
+				"armor": {
+					"feline": {
+						"standard": "",
+						"enhanced": "在艾拉瑪的廢棄莊園的頂部",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"griffin": {
+						"standard": "在屠龍洞窟裡",
+						"enhanced": "在白鷹堡的巨魔的附近",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"ursine": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"wolven": {
+						"standard": "",
+						"enhanced": "潛入水中",
+						"superior": "",
+						"mastercrafted": "箱子在井裡"
+					}
+				},
+				"boots": {
+					"feline": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"griffin": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"ursine": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"wolven": {
+						"standard": "",
+						"enhanced": "進入洞穴中",
+						"superior": "",
+						"mastercrafted": ""
+					}
+				},
+				"gauntlets": {
+					"feline": {
+						"standard": "",
+						"enhanced": "在怪老頭的採石場的一條礦井中",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"griffin": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"ursine": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"wolven": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": ""
+					}
+				},
+				"trousers": {
+					"feline": {
+						"standard": "",
+						"enhanced": "在燒焦的廢墟里面",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"griffin": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"ursine": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": ""
+					},
+					"wolven": {
+						"standard": "",
+						"enhanced": "",
+						"superior": "",
+						"mastercrafted": ""
+					}
+				}
+			}
+		},
+		"popup": {
+			"witcherGear": {
+				"silversword": {
+					"feline": {
+						"standard": "貓之銀劍",
+						"enhanced": "貓之銀劍——強化",
+						"superior": "貓之銀劍——高等",
+						"mastercrafted": "貓之銀劍——極品"
+					},
+					"griffin": {
+						"standard": "獅鷲獸銀劍",
+						"enhanced": "獅鷲獸銀劍——強化",
+						"superior": "獅鷲獸銀劍——高等",
+						"mastercrafted": "獅鷲獸銀劍——極品"
+					},
+					"ursine": {
+						"standard": "熊之銀劍",
+						"enhanced": "熊之銀劍——強化",
+						"superior": "熊之銀劍——高等",
+						"mastercrafted": "熊之銀劍——極品"
+					},
+					"wolven": {
+						"standard": "狼之銀劍",
+						"enhanced": "狼之銀劍——強化",
+						"superior": "狼之銀劍——高等",
+						"mastercrafted": "狼之銀劍——極品"
+					}
+				},
+				"steelsword": {
+					"feline": {
+						"standard": "猫之鋼劍",
+						"enhanced": "貓之鋼劍——強化",
+						"superior": "貓之鋼劍——高等",
+						"mastercrafted": "貓之鋼劍——極品"
+					},
+					"griffin": {
+						"standard": "獅鷲獸鋼劍",
+						"enhanced": "強化獅鷲獸鋼劍",
+						"superior": "獅鷲獸鋼劍——高等",
+						"mastercrafted": "獅鷲獸鋼劍——極品"
+					},
+					"ursine": {
+						"standard": "熊之鋼劍",
+						"enhanced": "熊之鋼劍——強化",
+						"superior": "熊之鋼劍——高等",
+						"mastercrafted": "熊之鋼劍——極品"
+					},
+					"wolven": {
+						"standard": "狼之鋼劍",
+						"enhanced": "狼之鋼劍——強化",
+						"superior": "狼之鋼劍——高等",
+						"mastercrafted": "狼之鋼劍——極品"
+					}
+				},
+				"crossbow": {
+					"feline": "貓之十字弓",
+					"ursine": "熊之十字弓"
+				},
+				"armor": {
+					"feline": {
+						"standard": "貓之甲胄",
+						"enhanced": "強化貓之甲胄",
+						"superior": "高等貓之甲胄",
+						"mastercrafted": "貓之甲胄"
+					},
+					"griffin": {
+						"standard": "獅鷲獸甲胄",
+						"enhanced": "強化獅鷲獸甲胄",
+						"superior": "高等獅鷲獸甲胄",
+						"mastercrafted": "極品獅鷲獸甲胄"
+					},
+					"ursine": {
+						"standard": "熊之甲胄",
+						"enhanced": "強化熊之甲胄",
+						"superior": "高等熊之甲胄",
+						"mastercrafted": "極品熊之甲胄"
+					},
+					"wolven": {
+						"standard": "狼之甲胄",
+						"enhanced": "強化狼之甲胄",
+						"superior": "高等狼之甲胄",
+						"mastercrafted": "極品狼之甲胄"
+					}
+				},
+				"boots": {
+					"feline": {
+						"standard": "貓靴",
+						"enhanced": "強化貓之靴子",
+						"superior": "高等貓之靴子",
+						"mastercrafted": "極品貓之靴子"
+					},
+					"griffin": {
+						"standard": "獅鷲獸靴子",
+						"enhanced": "強化獅鷲獸靴子",
+						"superior": "高等獅鷲獸靴子",
+						"mastercrafted": "極品獅鷲獸靴子"
+					},
+					"ursine": {
+						"standard": "熊之靴子",
+						"enhanced": "強化熊之靴子",
+						"superior": "高等熊之靴子",
+						"mastercrafted": "極品熊之靴子"
+					},
+					"wolven": {
+						"standard": "狼之靴子",
+						"enhanced": "強化狼之靴子",
+						"superior": "高等狼之靴子",
+						"mastercrafted": "極品狼之靴子"
+					}
+				},
+				"gauntlets": {
+					"feline": {
+						"standard": "貓之手套",
+						"enhanced": "強化貓之手套",
+						"superior": "高等貓之手套",
+						"mastercrafted": "極品貓之手套"
+					},
+					"griffin": {
+						"standard": "獅鷲獸手套",
+						"enhanced": "強化獅鷲獸手套",
+						"superior": "高等獅鷲獸手套",
+						"mastercrafted": "極品獅鷲獸手套"
+					},
+					"ursine": {
+						"standard": "熊之手套",
+						"enhanced": "強化熊之手套",
+						"superior": "高等熊之手套",
+						"mastercrafted": "極品熊之手套"
+					},
+					"wolven": {
+						"standard": "狼之手套",
+						"enhanced": "強化狼之手套",
+						"superior": "高等狼之手套",
+						"mastercrafted": "極品狼之手套"
+					}
+				},
+				"trousers": {
+					"feline": {
+						"standard": "貓之褲子",
+						"enhanced": "強化貓之褲子",
+						"superior": "高等貓之褲子",
+						"mastercrafted": "極品貓之褲子"
+					},
+					"griffin": {
+						"standard": "獅鷲獸褲子",
+						"enhanced": "強化獅鷲獸褲子",
+						"superior": "高等獅鷲獸褲子",
+						"mastercrafted": "極品獅鷲獸褲子"
+					},
+					"ursine": {
+						"standard": "熊之褲子",
+						"enhanced": "強化熊之褲子",
+						"superior": "高等熊之褲子",
+						"mastercrafted": "極品熊之褲子"
+					},
+					"wolven": {
+						"standard": "狼之褲子",
+						"enhanced": "強化狼之褲子",
+						"superior": "高等狼之褲子",
+						"mastercrafted": "極品狼之褲子"
+					}
+				}
+			}
+		}
+	},
+	"pop": {
+		"label": "魔力之所",
+		"label*": "魔力之所*",
+		"desc": "從魔力之所吸收能量可以得到一段時間的法印強化。所有魔力之所在第一次吸取能量時，能夠得到1能力點數",
+		"popup": "魔力之所 - __sign__"
+	},
+	"smugglers": {
+		"label": "走私品",
+		"desc": "走私品藏在這裡。 "
+	},
+	"spoils": {
+		"label": "戰掠品",
+		"desc": "在這裡尋找戰鬥或零星衝突後留下的戰利品 __monster__"
+	},
+	"signs": {
+		"aard": "阿爾德",
+		"axii": "亞克席",
+		"igni": "伊格尼",
+		"quen": "昆恩",
+		"yrden": "亞登"
+	},
+	"vineyardinfestation": {
+		"label": "葡萄園蟲害",
+		"desc": "葡萄園出沒的怪物。"
+	}
+}

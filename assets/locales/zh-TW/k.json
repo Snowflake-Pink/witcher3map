@@ -1,0 +1,190 @@
+{
+	"monsters": {
+		"basilisk": "石化蜥蜴",
+		"cyclops": "獨眼巨人",
+		"drowners": "水鬼",
+		"endrega": "安德萊格戰士",
+		"gargoyles": "石像鬼",
+		"ghost": "鬼魂",
+		"harpies": "人面妖鳥",
+		"leshen": "鹿首精怪",
+		"nekkers": "孽鬼",
+		"nekkerWarrior": "孽鬼戰士",
+		"wolves": "狼",
+		"wraiths": {
+			"wraiths": "妖靈",
+			"wraith": "妖靈"
+		},
+		"wyvern": "翼手龍"
+	},
+	"alchemy": {
+		"gremist": {
+			"label": "葛密斯塔",
+			"desc": "任務：進階煉金學 (lv. 24)"
+		}
+	},
+	"armourer": {
+		"amateurLabel": "業餘 護甲師傅",
+		"journeymanLabel": "短工 護甲師傅",
+		"desc": "你可以在此打造護甲，修理受損裝備，拆分裝備零件或從欄位上移除升級"
+	},
+	"banditcamp": {
+		"label": "強盜營地",
+		"desc": "一群危險的強盜在此紮營。 "
+	},
+	"barber": {
+		"label": "理髮師",
+		"desc": "你可以讓理髮師為你修理鬍鬚或改變髮型。 "
+	},
+	"blacksmith": {
+		"amateurLabel": "業餘 鑄劍匠",
+		"journeymanLabel": "短工 鑄劍匠",
+		"desc": "你可以在此打造武器，修理受損裝備，拆分武器零件， 或從欄位上移除升級"
+	},
+	"gwent": {
+		"label": {
+			"player": "昆特牌玩家"
+		},
+		"desc": {
+			"player": "來局昆特牌吧， 以小博大，緊張刺激！ "
+		},
+		"popup": {
+			"player": "昆特牌玩家",
+			"armorer": "護甲師傅 昆特牌玩家",
+			"blacksmith": "鑄劍匠 昆特牌玩家",
+			"gremist": "葛密斯塔 昆特牌玩家",
+			"herbalist": "藥草醫生 昆特牌玩家",
+			"innkeeper": "旅店老闆 昆特牌玩家",
+			"shopkeeper": "商店老闆 昆特牌玩家"
+		}
+	},
+	"innkeep": {
+		"inns": {
+			"harvikenInn": "哈爾維肯 旅館",
+			"houseOfWarriors": "勇士酒館",
+			"uriallaHarbourInn": "尤里埃拉港口客棧",
+			"svorlagInn": "斯沃拉格客棧",
+			"arinbjornInn": "艾琳比昂酒館",
+			"theNewPort": "新港客棧"
+		},
+		"popup": "客棧老闆",
+		"desc": {
+			"foodAndDrink": "售賣食物酒水",
+			"foodDrinkAndGwent": "販賣昆特牌，食物及飲料"
+		}
+	},
+	"misc": {
+		"liberated": "這位商人將在該地區解放後出現 "
+	},
+	"poi": {
+		"label": {
+			"juttaAnDimun": "茱塔·迪門",
+			"ursineSteelSword": "熊之鋼劍",
+			"enhancedUrsineBoots": "強化 熊之靴子",
+			"mastercraftedGriffinSteelSword": "師匠 獅鷲獸鋼劍",
+			"enhancedUrsineGauntlets": "強化 熊之手套",
+			"superiorGriffinArmourSet": "高等 獅鷲獸甲胄套裝",
+			"mastercraftedGriffinArmor": "師匠 獅鷲獸甲胄",
+			"superiorGriffinSteelSword": "高等 獅鷲獸鋼劍",
+			"ursineSilverSword": "熊之銀劍",
+			"ursineArmorSet": "熊之甲胄套裝",
+			"ursineCrossbow": "熊之十字弓",
+			"superiorGriffinSilverSword": "高等 獅鷲獸銀劍",
+			"mastercraftedGriffinSilverSword": "師匠 獅鷲獸銀劍",
+			"jarlMadmanLugos": "瘋子盧戈",
+			"mastercraftedFelineArmor": "師匠 貓之甲胄",
+			"mastercraftedFelineSteelSword": "師匠 貓之鋼劍",
+			"mastercraftedFelineSilverSword": "師匠 貓之銀劍",
+			"mastercraftedWolvenGauntlets": "師匠 狼之手套",
+			"mastercraftedWolvenTrousers": "師匠 狼之褲子",
+			"mastercraftedWolvenBoots": "師匠 狼之靴子",
+			"superiorWolvenSteelSword": "高等 狼之钢剑",
+			"superiorWolvenSilverSword": "高等 狼之銀劍",
+			"superiorWolvenArmor": "高等 狼之甲胄"
+		},
+		"popupTitle": {
+			"ursineSteelSword": "熊之鋼劍圖紙",
+			"enhancedUrsineBoots": "強化 熊之靴子圖紙",
+			"mastercraftedGriffinSteelSword": "師匠 獅鷲獸鋼劍圖紙",
+			"enhancedUrsineGauntlets": "強化 熊之手套圖紙",
+			"superiorGriffinArmourSet": "高等 獅鷲獸甲胄套裝圖紙",
+			"mastercraftedGriffinArmor": "師匠 獅鷲獸甲胄圖紙",
+			"superiorGriffinSteelSword": "高等 獅鷲獸鋼劍圖紙",
+			"ursineSilverSword": "熊之銀劍圖紙",
+			"ursineArmorSet": "熊之甲胄套裝圖紙",
+			"ursineCrossbow": "熊之十字弓圖紙",
+			"superiorGriffinSilverSword": "高等 獅鷲獸銀劍圖紙",
+			"mastercraftedGriffinSilverSword": "師匠 獅鷲獸銀劍圖紙",
+			"jarlMadmanLugos": "瘋子盧戈",
+			"mastercraftedFelineArmor": "師匠 貓之甲胄圖紙",
+			"mastercraftedFelineSteelSword": "師匠 貓之鋼劍圖紙",
+			"mastercraftedFelineSilverSword": "師匠 貓之銀劍圖紙",
+			"mastercraftedWolvenGauntlets": "師匠 狼之手套圖紙",
+			"mastercraftedWolvenTrousers": "師匠 狼之褲子圖紙",
+			"mastercraftedWolvenBoots": "師匠 狼之靴子圖紙",
+			"superiorWolvenSteelSword": "高等 狼之鋼劍圖紙",
+			"superiorWolvenSilverSword": "高等 狼之銀劍圖紙",
+			"superiorWolvenArmor": "高等 狼之甲胄圖紙"
+		},
+		"desc": {
+			"juttaAnDimun": "待辦事項",
+			"ursineSteelSword": "在這個廢墟的地下室內一個寶箱中",
+			"enhancedUrsineBoots": "在一個山腰上未被標記的洞穴裡",
+			"mastercraftedGriffinSteelSword": "",
+			"enhancedUrsineGauntlets": "",
+			"superiorGriffinArmourSet": "甲胄、 靴子、 手套、 褲子",
+			"mastercraftedGriffinArmor": "",
+			"superiorGriffinSteelSword": "",
+			"ursineSilverSword": "",
+			"ursineArmorSet": "甲胄、 手套、褲子、靴子",
+			"ursineCrossbow": "",
+			"superiorGriffinSilverSword": "位於下方的洞穴系統內",
+			"mastercraftedGriffinSilverSword": "",
+			"jarlMadmanLugos": "你將會從他手中得到一張“鮮血獵食者” (昆特牌任務：史凱利傑)(全部卡片<a href=\"https://wiiare.in/portfolio-type/the-witcher-3-wild-hunt-card-collector-achievement-trophy-guide/\" target=\"_blank\"> 这里</a>",
+			"mastercraftedFelineArmor": "進入海岸線南部的怪物巢穴。在泥水中行進一小段路後，靠左走。所有的甲胄套裝圖紙就位於寶箱內(大師貓之甲胄、手套、褲子、靴子)。",
+			"mastercraftedFelineSteelSword": "當進入怪物巢穴擊退敵人後，向左前進。爬上樓梯，在你的左手邊有一個壁龕，圖紙就在寶箱裡。",
+			"mastercraftedFelineSilverSword": "進入怪物巢穴，向右前進並擊碎牆壁。圖紙就在面前的寶箱中。",
+			"mastercraftedWolvenTrousers": "你必須爬上舊瞭望塔的圍牆。",
+			"superiorWolvenSteelSword": "深入地下墓穴，進入一個充滿毒氣的房間。",
+			"superiorWolvenArmor": "你需要前往堡壘的二樓。"
+		}
+	},
+	"pop": {
+		"desc": {
+			"kingsGambit": "“王翼棄兵委託”。從魔力之所吸收能量可以得到一段時間的法印強化。所有魔力之所在第一次吸取能量時，能夠得到1能力點數",
+			"sunstone": "“太陽石委託”。從魔力之所吸收能量可以得到一段時間的法印強化。所有魔力之所在第一次吸取能量時，能夠得到1能力點數"
+		}
+	},
+	"shopkeeper": {
+		"label": {
+			"shopkeeper": "商店老闆",
+			"tailor": "裁縫",
+			"wanderingMerchant": "流浪商人"
+		},
+		"desc": {
+			"armourAndCraftingSupplies": "售賣盔甲及手工補給品",
+			"barber": "此人也是一位理髮師",
+			"clothesAndCraftingSupplies": "售賣服飾，手工補給品 ",
+			"craftingSuppliesAndFish": "售賣水產，手工補給品",
+			"mapsCraftingSupplies": "售賣地圖，手工補給品",
+			"mapsCraftingSuppliesFoodAndDrink": "售賣地圖，酒水食物及手工補給品",
+			"mapsCraftingSuppliesFishAndSaddles": "售賣地圖，手工補給品，水產以及“師匠騎兵馬鞍” (移動 +75)"
+		}
+	},
+	"signpost": {
+		"label": {
+			"lakesideHut": "湖邊小屋",
+			"ironMine": "鐵礦",
+			"kaerMorhen": "凱爾莫漢",
+			"bastion": "大堡壘",
+			"ruinedwatchtower": "荒廢的瞭望塔"
+		},
+		"desc": {
+			"ruinedwatchtower": "這座湖岸的瞭望塔曾是狼派獵魔人的榮耀。而如今它已是一片廢墟，唯有瓦礫間的風聲作伴。",
+			"bastion": "年輕的巫師們曾在此試煉，但現在這座堡壘已被遺忘，淪為廢墟。",
+			"lakesideHut": "年輕的巫師們曾在此試煉，但現在這座堡壘已被遺忘，淪為廢墟。",
+			"ironMine": "在這裡，鐵礦石被開才出來以用於煉製狼派武器",
+			"kaerMorhen": "玥洱海畔的客棧，狼派巫師們的家"
+		}
+	}
+}

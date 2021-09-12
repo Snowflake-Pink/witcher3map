@@ -1,0 +1,300 @@
+{
+	"monsters": {
+		"alghouls": "巨食屍鬼",
+		"bandits": "強盜",
+		"basilisk": "石化蜥蜴",
+		"bear": "熊",
+		"cyclops": "獨眼怪",
+		"drowners": "水鬼",
+		"echidna": "女海妖",
+		"elemental": {
+			"earth": "地元素",
+			"ice": "冰元素"
+		},
+		"endrega": "安德萊格戰士",
+		"gargoyles": "石像鬼",
+		"ghost": "幽靈",
+		"harpies": "人面妖鳥",
+		"nekkers": "孽鬼",
+		"nekkerWarrior": "孽鬼戰士",
+		"sirens": "女海妖",
+		"wolves": "狼",
+		"wraiths": {
+			"wraiths": "妖靈",
+			"wraith": "妖靈"
+		},
+		"wyvern": "翼手龍"
+	},
+	"alchemy": {
+		"gremist": {
+			"label": "葛密斯塔",
+			"desc": "任務：進階煉金學（lv 24）"
+		}
+	},
+	"armourer": {
+		"amateurLabel": "業餘 護甲師傅",
+		"journeymanLabel": "短工 護甲師傅",
+		"desc": "你可以在此打造護甲，修理受損裝備，將裝備拆解成零件，或從欄位上移除升級"
+	},
+	"banditcamp": {
+		"label": "強盜營地",
+		"desc": "一群危險的強盜在這里扎營 "
+	},
+	"barber": {
+		"label": "理髮師",
+		"desc": "你可以在此刮鬍子或更改髮型 "
+	},
+	"blacksmith": {
+		"amateurLabel": "業餘 鑄劍匠",
+		"journeymanLabel": "短工 鑄劍匠",
+		"desc": "你可以在此打造武器，修理受損裝備，將裝備拆解成零件，或從欄位上移除升級"
+	},
+	"gwent": {
+		"label": {
+			"player": "昆特牌玩家"
+		},
+		"desc": {
+			"player": "你可以在此進行昆特牌賭博贏取金錢 "
+		},
+		"popup": {
+			"player": "昆特牌玩家",
+			"armorer": "護甲師傅 昆特牌玩家",
+			"blacksmith": "鑄劍匠 昆特牌玩家",
+			"gremist": "葛密斯塔 昆特牌玩家",
+			"herbalist": "藥草醫生 昆特牌玩家",
+			"innkeeper": "旅館主人 昆特牌玩家",
+			"shopkeeper": "商店老闆 昆特牌玩家"
+		}
+	},
+	"innkeep": {
+		"inns": {
+			"harvikenInn": "哈爾維肯 旅館",
+			"houseOfWarriors": "勇士酒館",
+			"uriallaHarbourInn": "尤里埃拉港口客棧",
+			"svorlagInn": "斯沃拉格客棧",
+			"arinbjornInn": "艾琳比昂酒館",
+			"theNewPort": "新港客棧"
+		},
+		"popup": "旅館",
+		"desc": {
+			"foodAndDrink": "販賣食物及飲料",
+			"foodDrinkAndGwent": "販賣昆特牌、食物及飲料"
+		}
+	},
+	"misc": {
+		"liberated": "這位商人將在該地區解放後出現 "
+	},
+	"poi": {
+		"label": {
+			"juttaAnDimun": "茱塔·迪門",
+			"ursineSteelSword": "熊之鋼劍",
+			"enhancedUrsineBoots": "強化 熊之靴子",
+			"mastercraftedGriffinSteelSword": "師匠 獅鷲獸鋼劍",
+			"enhancedUrsineGauntlets": "強化 熊之手套",
+			"superiorGriffinArmourSet": "高等 獅鷲獸甲胄套裝",
+			"mastercraftedGriffinArmor": "師匠 獅鷲獸甲胄",
+			"superiorGriffinSteelSword": "高等 獅鷲獸鋼劍",
+			"ursineSilverSword": "熊之銀劍",
+			"ursineArmorSet": "熊之甲胄套裝",
+			"ursineCrossbow": "熊之十字弓",
+			"superiorGriffinSilverSword": "高等 獅鷲獸銀劍",
+			"mastercraftedGriffinSilverSword": "師匠 獅鷲獸銀劍",
+			"jarlMadmanLugos": "瘋子盧戈",
+			"mastercraftedFelineArmor": "師匠 貓之甲胄",
+			"mastercraftedFelineSteelSword": "師匠 貓之鋼劍",
+			"mastercraftedFelineSilverSword": "師匠 貓之銀劍",
+			"mastercraftedWolvenGauntlets": "師匠 狼之手套",
+			"mastercraftedWolvenTrousers": "師匠 狼之褲子",
+			"mastercraftedWolvenBoots": "師匠 狼之靴子",
+			"superiorWolvenSteelSword": "高等 狼之鋼劍",
+			"superiorWolvenSilverSword": "高等 狼之銀劍",
+			"superiorWolvenArmor": "高等 狼之甲胄"
+		},
+		"popupTitle": {
+			"ursineSteelSword": "熊之鋼劍圖紙",
+			"enhancedUrsineBoots": "強化 熊之靴子圖紙",
+			"mastercraftedGriffinSteelSword": "師匠 獅鷲獸鋼劍圖紙",
+			"enhancedUrsineGauntlets": "強化 熊之手套圖紙",
+			"superiorGriffinArmourSet": "高等 獅鷲獸甲胄套裝圖紙",
+			"mastercraftedGriffinArmor": "師匠 獅鷲獸甲胄圖紙",
+			"superiorGriffinSteelSword": "高等 狮鹫兽钢剑图纸",
+			"ursineSilverSword": "熊之銀劍圖紙",
+			"ursineArmorSet": "熊之甲胄套裝圖紙",
+			"ursineCrossbow": "熊之十字弓圖紙",
+			"superiorGriffinSilverSword": "高等 獅鷲獸銀劍圖紙",
+			"mastercraftedGriffinSilverSword": "師匠 獅鷲獸銀劍圖紙",
+			"jarlMadmanLugos": "瘋子盧戈",
+			"mastercraftedFelineArmor": "師匠 貓之甲胄圖紙",
+			"mastercraftedFelineSteelSword": "師匠 貓之鋼劍圖紙",
+			"mastercraftedFelineSilverSword": "師匠 貓之銀劍圖紙",
+			"mastercraftedWolvenGauntlets": "師匠 狼之手套圖紙",
+			"mastercraftedWolvenTrousers": "師匠 狼之褲子圖紙",
+			"mastercraftedWolvenBoots": "師匠 狼之靴子圖紙",
+			"superiorWolvenSteelSword": "高等 狼之鋼劍圖紙",
+			"superiorWolvenSilverSword": "高等 狼之銀劍圖紙",
+			"superiorWolvenArmor": "高等 狼之甲胄圖紙"
+		},
+		"desc": {
+			"juttaAnDimun": "待辦事項",
+			"ursineSteelSword": "在這個廢墟的地下室內一個寶箱中",
+			"enhancedUrsineBoots": "在一個山腰上未被標記的洞穴裡",
+			"mastercraftedGriffinSteelSword": "",
+			"enhancedUrsineGauntlets": "",
+			"superiorGriffinArmourSet": "甲胄、 靴子、 手套、 褲子",
+			"mastercraftedGriffinArmor": "",
+			"superiorGriffinSteelSword": "",
+			"ursineSilverSword": "",
+			"ursineArmorSet": "甲胄、 手套、褲子、靴子",
+			"ursineCrossbow": "",
+			"superiorGriffinSilverSword": "位於下方的洞穴系統內",
+			"mastercraftedGriffinSilverSword": "",
+			"jarlMadmanLugos": "你將會從他手中得到一張“鮮血獵食者” (昆特牌任務：史凱利傑)(全部卡片<a href=\"https://wiiare.in/portfolio-type/the-witcher-3 -wild-hunt-card-collector-achievement-trophy-guide/\" target=\"_blank\">這裡</a>",
+			"mastercraftedFelineArmor": "進入海岸線南部的怪物巢穴。在泥水中行進一小段路後，靠左走。所有的甲胄套裝圖紙就位於寶箱內(大師貓之甲胄、手套、褲子、靴子)。",
+			"mastercraftedFelineSteelSword": "當進入怪物巢穴擊退敵人後，向左前進。爬上樓梯，在你的左手邊有一個壁龕，圖紙就在寶箱裡。",
+			"mastercraftedFelineSilverSword": "進入怪物巢穴，向右前進並擊碎牆壁。圖紙就在面前的寶箱中。",
+			"mastercraftedWolvenTrousers": "你必須爬上舊瞭望塔的圍牆。",
+			"superiorWolvenSteelSword": "深入地下墓穴，進入一個充滿毒氣的房間。",
+			"superiorWolvenArmor": "你需要前往堡壘的二樓。"
+		}
+	},
+	"pop": {
+		"desc": {
+			"kingsGambit": "“王翼棄兵委託”。從魔力之所吸收能量可以得到一段時間的法印強化。所有魔力之所在第一次吸取能量時，能夠得到1能力點數",
+			"sunstone": "“太陽石委託”。從魔力之所吸收能量可以得到一段時間的法印強化。所有魔力之所在第一次吸取能量時，能夠得到1能力點數"
+		}
+	},
+	"shopkeeper": {
+		"label": {
+			"shopkeeper": "商店老闆",
+			"tailor": "裁縫",
+			"wanderingMerchant": "流浪商人"
+		},
+		"desc": {
+			"armourAndCraftingSupplies": "售賣盔甲及手工補給品",
+			"barber": "此人也是一位理髮師",
+			"clothesAndCraftingSupplies": "售賣服飾，手工補給品 ",
+			"craftingSuppliesAndFish": "售賣水產，手工補給品",
+			"mapsCraftingSupplies": "售賣地圖，手工補給品",
+			"mapsCraftingSuppliesFoodAndDrink": "售賣地圖，酒水食物及手工補給品",
+			"mapsCraftingSuppliesFishAndSaddles": "售賣地圖，手工補給品，水產以及“師匠騎兵馬鞍” (移動 +75)"
+		}
+	},
+	"signpost": {
+		"label": {
+			"trottheim": "托特海姆",
+			"harviken": "哈爾維肯",
+			"larvik": "拉爾維克",
+			"freyasGarden": "弗蕾雅神的花園",
+			"lofoten": "羅伏藤",
+			"lofotenCemetery": "羅伏藤墓園",
+			"isolatedHut": "偏遠小屋",
+			"lurthen": "盧森",
+			"trailToYngvarsFang": "通往英格瓦之牙的小徑",
+			"yngvarsFang": "英格瓦之牙",
+			"uriallaHarbor": "尤里埃拉港口",
+			"bayOfWinds": "風之灣",
+			"hov": "霍佛",
+			"svorlag": "斯瓦雷格",
+			"oldWatchtower": "舊瞭望塔",
+			"thePaliGapCoast": "巴利峽谷海岸",
+			"kaerAlmhult": "凱爾艾胡",
+			"marlinCoast": "槍魚海岸",
+			"gullPoint": "海鷗點",
+			"dorveRuins": "朵夫遺跡",
+			"clanTordarrochForge": "托達洛曲家族的鑄坊",
+			"urskar": "烏斯卡爾",
+			"abandonedVillage": "荒廢村莊",
+			"torGvalchca": "托瓦爾奇卡",
+			"elverumLighthouse": "艾孚魯燈塔",
+			"ruinedInn": "廢棄旅店",
+			"fyresdal": "費雷思达",
+			"kaerMuire": "凱爾謬雷",
+			"holmsteinsPort": "海姆斯坦港",
+			"wildShore": "原始海岸",
+			"fornhala": "弗爾哈拉",
+			"distillery": "釀酒廠",
+			"grotto": "石窟",
+			"palisade": "柵欄",
+			"arinbjorn": "阿林比翁",
+			"sund": "桑德",
+			"fayrlund": "斐隆德",
+			"boxholm": "巴克斯霍姆",
+			"rannvaig": "蘭維格",
+			"blandare": "布藍岱爾",
+			"druidsCamp": "德魯伊的營地",
+			"redgill": "雷吉爾",
+			"abandonedSawmill": "廢棄的鋸木廠",
+			"gedyneith": "蓋迪尼斯",
+			"gedyneith2": "蓋迪尼斯",
+			"whaleGraveyard": "鯨魚墳場",
+			"crossroads": "十字路口",
+			"minersCamp": "礦工的營地",
+			"eldbergLighthouse": "愛德堡燈塔",
+			"kaerGelen": "凱爾格倫",
+			"KaerTroldeHarbor": "凱爾卓港",
+			"bridgeToKaerTrolde": "通往凱爾卓的橋",
+			"rogne": "羅涅",
+			"yustiannasGrotto": "尤斯提雅那的石窟",
+			"giantsToes": "巨人的腳趾",
+			"ancientCrypt": "古代墓穴"
+		},
+		"desc": {
+			"trottheim": "這座村落以前聞名過整個史凱利傑群島，因為居民全為女性，所有男人都在出海搶劫時戰死了。",
+			"harviken": "迪門家族的據點，也是霍格·黑手每次成功洗劫之後分贓物的地方。",
+			"larvik": "印達爾斯費爾島上最大的村莊，也是辛達家族領主多納的家。村里的居民老實又畏懼天神，是信仰弗蕾雅神的傳統人士。",
+			"freyasGarden": "獻給弗蕾雅女神的花園，以前這兒長滿了數千朵漂亮又芳香的花朵和藥草，今日卻荒廢，無人使用已久。",
+			"lofoten": "羅伏藤曾是一座富有又充滿活力的村莊，現在則變成了殘破不堪的廢墟。",
+			"lofotenCemetery": "羅伏藤的居民經常來這座小型墓園幫他們的摯愛掃墓，並且祈求弗蕾雅神保佑他們死後的靈魂。",
+			"isolatedHut": "據說以前有個草藥醫生從大陸來到群島上，並定居在此。她在附近村落找不到居住的地方，因此決定在這間海濱小屋落腳，三不五時會有人來找她要魔法藥膏或繃帶。",
+			"lurthen": "盧森最有名的居民就是彼得·皮胡斯，他可以一口喝下整桶蜂蜜酒，喝完還不會倒地。",
+			"trailToYngvarsFang": "這是一條山路的起點，終點是小史凱利格人的榮耀與驕傲，英格瓦之牙。",
+			"yngvarsFang": "這座山頂是以一頭神話中的熊而取名。根據傳說，圖爾希曲家族的英雄元老，泰爾，打敗了那頭熊。",
+			"uriallaHarbor": "這個港口的船匠以熟練手法以及刁鑽細節而聞名，因此被公認為群島上的頂尖好手。",
+			"bayOfWinds": "三個世代以前，這個海灣是相當受當地年輕人歡迎的會面地點。有一晚，可怕的風暴來襲，大浪朝著海灘拍打，吞噬了好幾個來玩耍的年輕人，使他們葬身大海。",
+			"hov": "全史凱利傑的人都知道這座村莊，當地惡名昭彰的競技場以前舉辦過激烈的搏鬥賽，讓各個小島的頂尖戰士一較高下。",
+			"svorlag": "這座村落由神話中的索佛所建立，據說他就是在此殺死了害人又弒血的客邁拉。",
+			"oldWatchtower": "這是一座古老瞭望台的遺跡。據傳說所述，一位發瘋的科維爾公主曾經把自己關在裡頭，還堅信只有能解救她的男人夠格當她的丈夫。不過沒有人前去嘗試拯救她，後來公主老死，高塔逐漸年久失修。",
+			"thePaliGapCoast": "長老說這道海岸的一座偏遠山洞裡曾經住了世界上最有名的吟遊詩人（當然這時丹德里恩還沒出生）：贊古巴的席爾德涅，他的魯特琴技巧從奈澤爾到藍山人人皆知。",
+			"kaerAlmhult": "幾世紀以前興建來作為史凱利傑國王的堡壘。不過，事實上每位統治者都喜歡繼續坐在家族的位置上，凱爾艾胡因此無人使用。之後這兒被改建成監獄，現今則成了廢墟。",
+			"marlinCoast": "一直到不久前，都還有漁夫常來這片海灘釣槍魚。",
+			"gullPoint": "海鳥會從好幾里外的地方來到這塊貧瘠之地聚集、交配和產卵。",
+			"dorveRuins": "寒冰巨人摧毀的村莊遺址。",
+			"clanTordarrochForge": "以前這兒是一間著名的鑄坊，專門打造全史凱利傑品質最棒的工具和武器。寒冰巨人掌管小島後，將鑄坊變成了他的食品儲藏室。",
+			"urskar": "這裡的村民以愛好醃鯡魚而聞名。他們早餐、晚餐和宵夜都吃醃鯡魚，甚至還用醃鯡魚做果醬和糖煮水果。",
+			"abandonedVillage": "寒冰巨人突然從沉睡中醒來，向世人展現他的憤怒時，這座村子的居民被迫棄村逃亡。",
+			"torGvalchca": "一座古老之塔，搭建時精靈還是這片土地上的領主。",
+			"elverumLighthouse": "这间灯塔的前管理员是个古怪的角色。除了照料灯塔，写诗、织地毯的时候是正常，其他时候都不正常。比如，他会在每个正中午的时候脱光衣服绕着灯塔跑步，嘴里喊着「头脑清晰，身体健康」，并且早餐只吃鱼尾巴。",
+			"ruinedInn": "廢棄又燒毀的旅館，以前當地人和旅人經常來這兒品嚐附近最美味的烤羊排。",
+			"fyresdal": "住在這兒的人外表看似強悍不好惹，但內心其實溫柔好相處。",
+			"kaerMuire": "這座堡壘幾世紀以來都是德拉蒙家族的據點，不過現在跟當初全新的樣子差了十萬八千里。",
+			"holmsteinsPort": "海姆斯坦村莊用的港口碼頭，德拉蒙家族的主要港口。",
+			"wildShore": "小島沿岸仍然原始未開發的地區&trade;，是強盜和情侶的最愛。",
+			"fornhala": "神秘的廢棄村莊。",
+			"distillery": "這地方被神秘氣息籠罩，唯一確定的是這兒生產的烈酒在史凱利傑無人能比。",
+			"grotto": "只能坐船前往的偏遠地點。",
+			"palisade": "柵欄遺跡，曾標明了德拉蒙與奎特家族的領土邊界。",
+			"arinbjorn": "平靜的小村落，偶發的衝突事件只有村婦互甩巴掌或男人拿酒瓶互砸。",
+			"sund": "這座小村莊的居民大多都是牧羊人",
+			"fayrlund": "這座小村莊里頭住了史凱利傑最厲害的獵人，因此名聲遠傳。",
+			"boxholm": "巴克斯霍姆原本是凱爾尼森堡壘附近的一座繁榮村莊，但如今風華已去，只留下一堆石頭、瓦礫與殘缺的回憶。",
+			"rannvaig": "十五年前，一名蘭維格的漁夫撈到了一條巨大的比目魚，自此至今其他村民都在努力嘗試打破他的記錄。",
+			"blandare": "跟其他史凱利傑村莊不同，布藍岱爾位於內陸，離海岸有段距離，村民以採礦與畜牧為生。",
+			"druidsCamp": "德魯伊所搭的營區，用來調查摧毀附近森林的魔法災變。",
+			"redgill": "神秘的魔法災變在附近發生時，這座村子的村民匆忙逃離了這兒。",
+			"abandonedSawmill": "雖然位於森林深處，卻是採集木柴的好地點，可是現在鋸木廠荒廢已久，許久未使用。",
+			"gedyneith": "在所有史凱利傑人心中神聖莊嚴的橡樹，德魯伊和弗蕾雅神的信徒都會膜拜它。島上最重要的儀式都會在這兒舉辦，包括婚禮、喪禮以及皇室加冕儀式。",
+			"gedyneith2": "在所有史凱利傑人心中神聖莊嚴的橡樹，德魯伊和弗蕾雅神的信徒都會膜拜它。島上最重要的儀式都會在這兒舉辦，包括婚禮、喪禮以及皇室加冕儀式。",
+			"whaleGraveyard": "小島的居民來到這兒收集骨頭，以用來搭建小屋。",
+			"crossroads": "岔路會通往凱爾卓",
+			"minersCamp": "這是當地礦工去北邊山上勘探金礦礦脈時所利用的小營地。",
+			"eldbergLighthouse": "史裘達爾領主所下令興建的燈塔，用來照亮通往阿林比翁的海路。",
+			"kaerGelen": "這座堡壘的遺跡吸引了你在暗巷內最不想碰到的那種人。",
+			"KaerTroldeHarbor": "這是史凱利傑最繁忙的港口之一。世界各個角落的貨品都會被送來這兒買賣交易。",
+			"bridgeToKaerTrolde": "根據傳說，這座石橋是奎特家族的英雄元老，葛林姆加一手所刻出來的。",
+			"rogne": "這座山區的聚落住了許多性格堅強的居民，個性不屈不撓。",
+			"yustiannasGrotto": "尤斯提雅那是史凱利杰奎特家族的海盜，在一次出海洗劫時被​​俘虜。當時大路上從歐飛爾到贊古巴的人都相當害怕她。她的航海技術聞名天下，還是善於使用各種武器的高手，因此她成了無盡之海上人人畏懼的角色。據說她回到史凱利傑後，用這個洞穴來藏她的贓物。",
+			"giantsToes": "島民相信銜尾蛇將反對衪的巨人變成石頭以示懲罰，但其實這只是幾世紀以來有風與水形塑而成的岩層。",
+			"ancientCrypt": "雖然史凱利傑人以幾近瘋狂的勇敢而聞名，還是有些地方他們不敢靠近。這裡就是其中之一。"
+		}
+	}
+}

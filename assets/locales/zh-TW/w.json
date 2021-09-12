@@ -1,0 +1,85 @@
+{
+	"armourer": {
+		"amateurLabel": "業餘 護甲師傅",
+		"desc": "你可以在此打造護甲、修理受損裝備、把裝備拆成零件或把升級元素從欄位上移除"
+	},
+	"banditcamp": {
+		"label": "強盜營地",
+		"desc": "一群危險的強盜曾經在這紮營"
+	},
+	"blacksmith": {
+		"amateurLabel": "業餘 鑄劍匠",
+		"desc": "你可以在此打造武器、修理受損裝備、把裝備拆成零件或把升級元素從欄位上移除"
+	},
+	"gwent": {
+		"label": {
+			"player": "昆特牌玩家"
+		},
+		"desc": {
+			"player": "你可在這進行昆特牌賭博贏取金錢 (大多第一次勝利能獲得特殊卡片)",
+			"warn": "警告 , 該玩家可能會消失在後面的遊戲中"
+		}
+	},
+	"innkeep": {
+		"inns": {
+			"whiteOrchardInn": "白果園旅館"
+		},
+		"popup": "旅館",
+		"desc": {
+			"foodDrinkAndGwent": "販賣昆特牌、食物及飲料"
+		}
+	},
+	"misc": {
+		"liberated": "該商人將會在你解放當地後出現",
+		"disappears": "通過故事任務進度後消失"
+	},
+	"poi": {
+		"label": {
+			"lootableBattlefield": "可供搜刮的戰場",
+			"serpentineSteelSword": "毒蛇鋼劍",
+			"serpentineSilverSword": "毒蛇銀劍",
+			"crystalSkull": " 水晶頭骨"
+		},
+		"desc": {
+			"lootableBattlefield": "可搜刮此戰場以輕易獲得早期遊戲資金",
+			"serpentineSteelSword": "毒蛇學派裝備藍圖(1/2)",
+			"serpentineSilverSword": "毒蛇學派裝備藍圖(2/2)，位于教堂地下",
+			"crystalSkull": "根據遊戲簡介影片：可以在「最後願望」任務中解鎖與葉奈法的一段對話。只能在離開白果園之前拾取"
+		}
+	},
+	"shopkeeper": {
+		"label": {
+			"shopkeeper": "商店老闆"
+		},
+		"desc": {
+			"gwentCraftingAndHorse": "販賣昆特牌、工藝耗材及 泰莫利亞套裝 : 眼罩、馬鞍、容量袋、護甲",
+			"alchemyRunesAndFood": "販賣符石、煉金耗材及食物"
+		}
+	},
+	"signpost": {
+		"label": {
+			"abandonedVillage": "荒廢村莊",
+			"brokenBridge": "斷橋",
+			"woesongBridge": "哀歌之橋",
+			"sawmill": "鋸木廠",
+			"mill": "磨坊",
+			"nilfgaardianGarrison": "尼弗迦德駐防地",
+			"cacklerBridge": "嘻笑者之橋",
+			"crossroads": "十字路口",
+			"ford": "渡口",
+			"ransackedVillage": "遭到洗劫的村莊"
+		},
+		"desc": {
+			"abandonedVillage": "幾年前有一群拿著武器的人來到這作聚落，他們把居民全殺死，燒光房屋，那個黑暗血腥的日子之後，就沒有人住在這裡",
+			"brokenBridge": "尼弗迦德軍進攻時，這座橋被撤退的泰莫利亞軍對摧毀，這座橋一開始就不穩固了，算是因禍得福",
+			"woesongBridge": "以前有個女子會站在橋上等待愛人歸來，這座橋因此得名",
+			"sawmill": "白果園村有名的不只是優質水果，還有狡狐樹林裡最高品質、家具等級的木材",
+			"mill": "來自附近村莊的貨車會載著穀子來到白果園的磨坊",
+			"nilfgaardianGarrison": "白果園村附近的渡口是重要的戰略地點，已被尼弗迦德士兵攻下",
+			"cacklerBridge": "以前有個女人因為愛人不成而發了瘋，這座橋就是以她起名的。她的愛人離開了她之後，她整天都在橋上跑上跑下，嘴裡還歇斯底里地笑",
+			"crossroads": "道路在此分歧，一條通往維吉瑪，另一條通往諾維格瑞",
+			"ford": "戰爭爆發前，商人和旅人會從這兒過河，但現在只有尼弗迦德士兵會走這兒",
+			"ransackedVillage": "日出過後不久，敵對勢力攻擊了這座村落，很少人生還，及時逃進森林裡的人也沒有家可回了"
+		}
+	}
+}

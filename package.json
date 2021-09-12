@@ -18,7 +18,7 @@
     "the build task is executed immediately so the results are visible your browser."
   ],
   "name": "witcher3map",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Unofficial Witcher 3 interactive maps, with a mobile & tablet friendly design faithful to the game.",
   "author": {
     "name": "untamed0",

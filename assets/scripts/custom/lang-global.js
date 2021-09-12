@@ -12,18 +12,16 @@ window.i18noptions = {
 	getAsync: true,
 	ns: 'general',
 	lng: localStorage['lang'],
-	fallbackLng: 'en',
+	fallbackLng: 'zh-CN',
 	resGetPath: ((isRoot) ? "" : "../")+'files/locales/__lng__/__ns__.json',
 	useDataAttrOptions: true,
-	lngWhitelist: [ 'en', 'de', 'ru', 'pl', 'fr' ]
+	lngWhitelist: [  'zh-CN', 'zh-TW', 'en' ]
 };
 
 var languageOptions = [
-	{text: "English",value: "en",selected: (localStorage['lang'] == "en" ? true : false), description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/en.png"},
-	{text: "Deutsch",value: "de",selected: (localStorage['lang'] == "de" ? true : false),description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/de.png"},
-	{text: "Русский",value: "ru",selected: (localStorage['lang'] == "ru" ? true : false),description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/ru.png"},
-	{text: "Polski",value: "pl",selected: (localStorage['lang'] == "pl" ? true : false),description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/pl.png"},
-	{text: "Français",value: "fr",selected: (localStorage['lang'] == "fr" ? true : false),description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/fr.png"}
+	{text: "简体中文",value: "zh-CN",selected: (localStorage['lang'] == "zh-CN" ? true : false), description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/cn.png"},
+	{text: "繁體中文",value: "zh-TW",selected: (localStorage['lang'] == "zh-TW" ? true : false), description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/cn.png"}, // Taiwan is a part of China
+	{text: "English",value: "en",selected: (localStorage['lang'] == "en" ? true : false), description: " ",imageSrc: ((isRoot) ? "" : "../")+"files/images/flags/en.png"}
 ];
 
 window.changeLang = function(lang) {
